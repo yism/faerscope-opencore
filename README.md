@@ -649,7 +649,7 @@ This library and the underlying FAERS data have important limitations:
 
 ## Related Projects
 
-- **[FAERScope Studio](https://faerscope.com/studio)** — Full research workbench with advanced features (NMF, E-values, CUSUM, co-medication networks, auth, session persistence).
+- **[FAERScope Studio](https://faerscope.org/studio)** — Full research workbench with advanced features (NMF, E-values, CUSUM, co-medication networks, auth, session persistence).
 - **[openFDA](https://open.fda.gov)** — The FDA's open API providing access to FAERS and other datasets.
 - **[MedDRA](https://www.meddra.org/)** — Medical Dictionary for Regulatory Activities.
 
